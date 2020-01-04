@@ -50,7 +50,6 @@ user_input = gets.strip
     end
     end
    puts "Goodbye"
-   break
 end
 
 
